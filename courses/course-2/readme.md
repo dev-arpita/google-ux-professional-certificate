@@ -90,3 +90,20 @@ Ensure participants leave feeling valued and informed about any incentives offer
 (Reading)[https://docs.google.com/document/d/1f7byovN7VuzA2pkRoff99B6jv83KK7dPD3ale3JTIyE/edit?tab=t.spp6tlrrzijs]
 (Sample user bios)[https://docs.google.com/document/d/1f7byovN7VuzA2pkRoff99B6jv83KK7dPD3ale3JTIyE/edit?tab=t.3yx36xgbduzo]
 [bios imgage](./activities/user-bios.png)
+
+### Create a user journey map
+A user journey is the series of experiences a user has as they achieve a specific goal.
+(Read more...)[https://docs.google.com/document/d/1f7byovN7VuzA2pkRoff99B6jv83KK7dPD3ale3JTIyE/edit?tab=t.tmtk3n6vsbnn]
+
+### Consider accessibility during user research
+Accessibility is not just designing to include a group of users with varying abilities. Instead, it extends to anyone who is
+experiencing a permanent, temporary, or situational disability. 
+(Read More...)[https://www.coursera.org/learn/start-ux-design-process/lecture/9HKeZ/understand-the-curb-cut-effect]
+
+### Problem Statement:
+A problem statement is a clear description ​of the user's needs that should be addressed. ​Problem statements align the team ​on which user problem to focus on, ​giving everyone a clear goal.
+(Read More...)[https://docs.google.com/document/d/1f7byovN7VuzA2pkRoff99B6jv83KK7dPD3ale3JTIyE/edit?tab=t.4qrlyyqqz7uh]
+
+### hypothesis statement:
+A hypothesis statement writes out our best educated guess on what we think the solution to a design problem might be.
+(Read More...)[https://docs.google.com/document/d/1f7byovN7VuzA2pkRoff99B6jv83KK7dPD3ale3JTIyE/edit?tab=t.lj29j7kejuz9]
