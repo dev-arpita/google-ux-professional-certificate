@@ -107,3 +107,20 @@ A problem statement is a clear description ​of the user's needs that should be
 ### hypothesis statement:
 A hypothesis statement writes out our best educated guess on what we think the solution to a design problem might be.
 (Read More...)[https://docs.google.com/document/d/1f7byovN7VuzA2pkRoff99B6jv83KK7dPD3ale3JTIyE/edit?tab=t.lj29j7kejuz9]
+
+### value proposition: 
+A value proposition is the reason why a consumer should use a product or a service. Value propositions ensure that users have a reason to use the product that you are creating, as opposed to any other product currently available.
+(Read More...)[https://docs.google.com/document/d/1f7byovN7VuzA2pkRoff99B6jv83KK7dPD3ale3JTIyE/edit?tab=t.737a0j538o3q#heading=h.cjz6qu6mlhqn]
+
+### Understand human factors
+ The importance of psychology in UX design, emphasizing how understanding human factors can enhance user experiences.
+(Read More...)[https://docs.google.com/document/d/1f7byovN7VuzA2pkRoff99B6jv83KK7dPD3ale3JTIyE/edit?tab=t.veihw18vp07a]
+
+- Human Associations: The color red is often associated with dominance and aggression
+- Von Restorff Effect: unique items among similar ones are more likely to be remembered
+- Key Effects on User Memory:
+    - Serial Position Effect:  Users tend to remember the first and last items in a list better than those in the middle
+    - Hick's Law
+- Ethical considerations:
+    UX designers should use psychological principles ethically to empower users 
+(Read More....)[https://docs.google.com/document/d/1f7byovN7VuzA2pkRoff99B6jv83KK7dPD3ale3JTIyE/edit?tab=t.sh5w42bn24dk]
