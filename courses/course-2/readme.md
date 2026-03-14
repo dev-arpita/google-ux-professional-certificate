@@ -131,4 +131,18 @@ A value proposition is the reason why a consumer should use a product or a servi
 - Lastly, is your idea viable? Is it financially beneficial for the busines 
 (Read More..)[https://docs.google.com/document/d/1f7byovN7VuzA2pkRoff99B6jv83KK7dPD3ale3JTIyE/edit?tab=t.r1pln29736em]
 
-###
+### Compititive audit:
+- The competitive audit process involves identifying key competitors and analyzing their strengths and weaknesses.
+- Utilizing insights from competitive audits can lead to innovative ideas in UX design through effective team collaboration.
+- Best practices for presenting findings include structuring slides effectively and employing strong data presentation techniques.
+
+(Read more..)[https://docs.google.com/document/d/1f7byovN7VuzA2pkRoff99B6jv83KK7dPD3ale3JTIyE/edit?tab=t.oah0rdjf8qqe#heading=h.jpmz5xkxq2he]
+
+### Use How Might We to ideate
+ Brainstorming possible solutions to your design problems is an opportunity to get creative and have some fun! The “How might we” exercise is one of the most common ways to approach the ideation process.
+“How might we” (HMW) is a design thinking activity used to translate problems into opportunities for design.
+(Read more..)[https://docs.google.com/document/d/1f7byovN7VuzA2pkRoff99B6jv83KK7dPD3ale3JTIyE/edit?tab=t.1w197lmqv8a0]
+
+### Rapid Sketching
+Rapid Sketching is another popular design ideation exercise intended to help you think of several ideas in record time. Remember that this is one of many possible ways to ideate. Which is sometimes referred to as “Crazy Eights.”
+(Read More...)[https://docs.google.com/document/d/1f7byovN7VuzA2pkRoff99B6jv83KK7dPD3ale3JTIyE/edit?tab=t.7y3yfrf6fizn]
