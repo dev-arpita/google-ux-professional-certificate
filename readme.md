@@ -1,5 +1,5 @@
 # My Google UX Design Certificate learning journey with notes
-Completed the Google UX Design Certificate -- a rigorous, hands-on program that covers the design process from end-to-end.
+Completed the Google UX Design Certificate - a rigorous, hands-on program that covers the design process from end-to-end.
 
 ## Certificate Introduction
 This program is a professional credential designed by Google to provide job-ready skills in User Experience (UX) design. It focuses on the "User-First" philosophy, teaching you how to complete the end-to-end design process—from initial research to high-fidelity interactive prototypes. You’ll complete three full projects to build a professional portfolio.
