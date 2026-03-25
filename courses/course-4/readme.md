@@ -90,3 +90,21 @@ Being fully unbiased when conducting and observing interviews is impossible. Eve
 ### Patterns and themes in research data
 Now it's time to find themes in that data. 
 (Read more..)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.86mlvbrwc11n]
+(Ex: Gmail labels)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.ijpay4s27vm#heading=h.1uvwfej7sugf]
+### Qualities of strong insights
+(Read more...)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.40wqjorortsk#heading=h.5gx0imoixxd7]
+
+### Tips for creating a strong presentation
+(Read more...)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.nrzsosx2ihrn#heading=h.f6pv2ccy65dn]
+
+### Choose a format for sharing insights
+(Read more...)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.ayvin7zfq5xp]
+
+### Create a strong presentation
+(Read more...)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.yibdyour09k0#heading=h.jqcasuec4y60]
+
+### Overcome stage fright
+(Read more...)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.8o81jch2hyuh#heading=h.84rizsd2a2vv]
+
+### Tips for giving an effective presentation
+(Read more...)[https://docs.google.com/document/d/1baLnvnFxAwKIeGuYsh4hamQSHCV8-6XraRfLYaJAdUA/edit?tab=t.wjauf3fcgjnw#heading=h.qbfhbspdv77o]
